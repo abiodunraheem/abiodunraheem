@@ -14,8 +14,8 @@
     <img align="left" alt="Satyam Goyal | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a><br>
 
-- 🔭 I’m currently working on being a Full-stack developer at Microverse Inc
-- 🌱 Technologies: Javascript, Html, CSS, React & Redux, Ruby, Ruby & rails.
+- 🔭 I’m a Full-stack developer at Microverse Inc
+- 🌱 Technologies: Javascript, Html, CSS, React & Redux, Node.JS, MongoDB, Ruby, Ruby & rails.
 - 👯 I’m currently learning and looking for new opportunities
 - 📫 Contact me: raheemabiodun23@gmail.com
   
