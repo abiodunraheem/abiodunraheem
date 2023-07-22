@@ -15,7 +15,7 @@
   </a><br>
 
 - 🔭 I’m a Full-stack developer at Microverse Inc
-- 🌱 Technologies: Javascript, Html, CSS, React & Redux, Node.JS, MongoDB, Ruby, Ruby & rails.
+- 🌱 Technologies: Javascript, Html, CSS, React & Redux, Node.JS, Express, MongoDB, Ruby, Ruby on rails.
 - 👯 I’m currently learning and looking for new opportunities
 - 📫 Contact me: raheemabiodun23@gmail.com
   
