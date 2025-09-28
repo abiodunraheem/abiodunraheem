@@ -8,7 +8,7 @@
   <a href="https://twitter.com/@Raheemabiodun23">
     <img align="left" alt="Satyam Goyal | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
   </a> &nbsp;&nbsp;  <a https://www.linkedin.com/in/abiodun-raheem">
-    <img align="left" alt="Hargun | Linkedin" width="24px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Linkedin.svg" />
+    <img align="left" alt="Hargun | Linkedin" width="24px" src="https://www.linkedin.com/in/abiodun-raheem" />
   </a> &nbsp;&nbsp;
    <a href="mailto:raheemabiodun23@gmail.com">
     <img align="left" alt="Satyam Goyal | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
